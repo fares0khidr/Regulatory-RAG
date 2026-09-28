@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Generated vector indexes
+chroma_db/
+chromadatabase/
+
+# Local regulatory documents may be copyrighted or confidential
+sources/*.pdf

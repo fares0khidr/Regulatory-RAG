@@ -1,0 +1,9 @@
+streamlit
+chromadb
+huggingface-hub
+google-genai
+python-dotenv
+numpy
+pdf2image
+pytesseract
+langchain-text-splitters
